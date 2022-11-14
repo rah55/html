@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<header>
+	<h1> Welcome TO India Live News</h1>
+	</header>
+	
+	<body>
+
+
+
+
+
+
+
+	</body>
+
+
+
+
+
+
+
+
+
+</html>
